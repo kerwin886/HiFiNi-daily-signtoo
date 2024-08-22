@@ -1,4 +1,4 @@
-# HiFiNi-daily-sign
+# HiFiNi-daily-signtoo
 
 HiFiNi-音乐磁场每日自动签到-无需服务器部署
 
@@ -28,7 +28,7 @@ document.cookie
 bbs_token=R74mq3S2uXXXXXXXXXXX66nLnTW7DFOV;
 ```
 
-#### 第三步 添加 "COOKIE"，最后启用Action
+#### 第三步 添加 "COOKIE"，最后随便修改下md文件触发Action运行,启用Action
 
 ![https://cdn.jsdelivr.net/gh/Xramas/Repository@master/files/2023/1/30/31691c9e56554d2e11e7539aa5531015.png](https://cdn.jsdelivr.net/gh/Xramas/Repository@master/files/2023/1/30/31691c9e56554d2e11e7539aa5531015.png)
 
